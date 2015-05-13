@@ -3,4 +3,5 @@
  */
 public class MavenClass {
     // comment
+    //another comment
 }
